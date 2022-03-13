@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ## About
 Hi! My name is Denis Manichkin. I'm a Data Scientist mostly experienced in Computer Vision.
 Currently working on [projects](https://github.com/shpq/projects) repo to refactor and add my pet- and work-projects with some useful features.
+
+## (CV)[./files/DenisManichkinCV.pdf]
