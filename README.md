@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Linkedin: /denis-manichkin-307733233](https://img.shields.io/badge/-Denis%20Manichkin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-manichkin-307733233/)](https://www.linkedin.com/in/denis-manichkin-307733233/)
+## About
 Hi! My name is Denis Manichkin. I'm a Data Scientist mostly experienced in Computer Vision.
 Currently working on [projects](https://github.com/shpq/projects) repo to refactor and add my pet- and work-projects with some useful features.
